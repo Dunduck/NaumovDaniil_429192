@@ -1,0 +1,16 @@
+E:\CatSt\CatStore\bin\Debug\CatStore.exe.config
+E:\CatSt\CatStore\bin\Debug\CatStore.exe
+E:\CatSt\CatStore\bin\Debug\CatStore.pdb
+E:\CatSt\CatStore\obj\Debug\CatStore.csproj.AssemblyReference.cache
+E:\CatSt\CatStore\obj\Debug\CatStore.csproj.SuggestedBindingRedirects.cache
+E:\CatSt\CatStore\obj\Debug\CatStore.Properties.Resources.resources
+E:\CatSt\CatStore\obj\Debug\CatStore.csproj.GenerateResource.cache
+E:\CatSt\CatStore\obj\Debug\CatStore.csproj.CoreCompileInputs.cache
+E:\CatSt\CatStore\obj\Debug\CatStore.exe
+E:\CatSt\CatStore\obj\Debug\CatStore.pdb
+E:\CatSt\CatStore\bin\Debug\MaterialSkin.dll
+E:\CatSt\CatStore\obj\Debug\CatStore.csproj.CopyComplete
+E:\CatSt\CatStore\obj\Debug\CatStore.LogForm.resources
+E:\CatSt\CatStore\obj\Debug\CatStore.RegForm.resources
+E:\CatSt\CatStore\obj\Debug\CatStore.AdminForm.resources
+E:\CatSt\CatStore\obj\Debug\CatStore.AddModelCatForm.resources
